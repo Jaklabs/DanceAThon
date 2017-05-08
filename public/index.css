@@ -2,11 +2,21 @@
   margin: 0;
 }
 
+@media (max-width: 600px) {
+  header {
+    font-size: 50vw;
+  }
+}
+
+@media (min-width: 600px) {
+   header {
+     font-size: 48px;
+  }
+}
 header {
   margin: 0;
   padding: 10px;
   text-align: center;
-  font-size: 48px;
   font-family: 'Indie Flower', cursive;
   background-color: #a80;
   color: #fff;
