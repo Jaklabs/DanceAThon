@@ -22,8 +22,8 @@ section {
 }
 .pic-container {
   margin: 0;
-  background-color: #a0f;
-  height: 250px;
+  background-image: url('puente-2k19.jpg');
+  height: 300px;
 }
 footer {
   padding: 5px;
