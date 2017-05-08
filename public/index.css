@@ -21,12 +21,12 @@ section {
   text-align: center;
 }
 
-.item {
+.item h1 {
   font-family: 'Indie Flower', cursive;
 }
-
 .item p {
   font-size: 24px;
+  font-family: cursive;
 }
 .item {
   width: 75%;
